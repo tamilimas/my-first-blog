@@ -25,7 +25,7 @@ SECRET_KEY = '!*b!@%q1le2az(^(%cady0lk*or7!$x#49=)5&r&gt8^1gmgmp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tamireslima.pythonanywhere.com']
 
 
 # Application definition
